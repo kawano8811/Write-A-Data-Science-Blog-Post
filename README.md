@@ -23,7 +23,7 @@ You need Python3 and these libralies.
 I choosed the data from Bostn Airbnb dataset.
 And When I plotted the time series data, I noticed something interesting.
 The price goes up at certain times of the year.
-So I 
+So I analysis this data.
 
 ## File Descriptions
 * write_a_data_science_blog_post.ipynb
