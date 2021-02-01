@@ -35,3 +35,4 @@ So I analysis this data.
 
 ## Results
 Results is here, Medium Blog.
+https://y-kawano0723.medium.com/boston-airbnb-price-analysis-eaf6c2bfccc4
