@@ -36,3 +36,6 @@ So I analysis this data.
 ## Results
 Results is here, Medium Blog.
 https://y-kawano0723.medium.com/boston-airbnb-price-analysis-eaf6c2bfccc4
+
+## Acknowledgements
+Must give to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle lik available [here](https://www.kaggle.com/airbnb/boston) and [here](https://www.kaggle.com/airbnb/seattle).
